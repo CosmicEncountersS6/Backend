@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|c:\\users\\evalynn kootstra\\documents\\github\\backend\\cebackend\\controllers\\alienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|solutionrelative:controllers\\alienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|c:\\users\\evalynn kootstra\\documents\\github\\backend\\cebackend\\controllers\\alienendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|solutionrelative:controllers\\alienendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|c:\\users\\evalynn kootstra\\documents\\github\\backend\\cebackend\\controllers\\aliencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|solutionrelative:controllers\\aliencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|c:\\users\\evalynn kootstra\\documents\\github\\backend\\cebackend\\alien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|solutionrelative:alien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|c:\\users\\evalynn kootstra\\documents\\github\\backend\\cebackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AliensController.cs",
+              "DocumentMoniker": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Controllers\\AliensController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AliensController.cs",
+              "ToolTip": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Controllers\\AliensController.cs",
+              "RelativeToolTip": "Controllers\\AliensController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:00:32.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlienEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Controllers\\AlienEndpoints.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlienEndpoints.cs",
+              "ToolTip": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Controllers\\AlienEndpoints.cs",
+              "RelativeToolTip": "Controllers\\AlienEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:57:28.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlienController.cs",
+              "DocumentMoniker": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Controllers\\AlienController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlienController.cs",
+              "ToolTip": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Controllers\\AlienController.cs",
+              "RelativeToolTip": "Controllers\\AlienController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:53:31.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alien.cs",
+              "DocumentMoniker": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Alien.cs",
+              "RelativeDocumentMoniker": "Alien.cs",
+              "ToolTip": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Alien.cs",
+              "RelativeToolTip": "Alien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:37:01.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:31:44.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

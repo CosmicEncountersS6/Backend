@@ -1,0 +1,6 @@
+@CEBackend_HostAddress = http://localhost:5002
+
+GET {{CEBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
