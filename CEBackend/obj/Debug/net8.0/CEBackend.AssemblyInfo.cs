@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CEBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dbb84bc78ec02c953689dd9a1b7acb3fb6e45b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+290dfe0d323e040c9dfb60a805cf89f095f23bb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CEBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CEBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

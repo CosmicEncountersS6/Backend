@@ -12,9 +12,19 @@ namespace CEBackend
 
         public string Image { get; set; }
 
+        public Difficulty difficulty { get; set; }
+
         public bool PublicReveal { get; set; }
 
         public bool ExtraSupplies { get; set; }
+
+    }
+
+    public enum Difficulty
+    {
+        Easy,
+        Medium,
+        Difficult
 
     }
 }

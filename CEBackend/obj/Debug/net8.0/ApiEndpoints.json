@@ -1,32 +1,30 @@
 [
   {
-    "ContainingType": "CEBackend.Controllers.AlienEndpoints\u002B\u003C\u003Ec",
-    "Method": "\u003CMapAlienEndpoints\u003Eb__0_0",
-    "RelativePath": "api/Alien/",
+    "ContainingType": "CEBackend.Controllers.AliensController",
+    "Method": "GetAliens",
+    "RelativePath": "api/Aliens",
     "HttpMethod": "GET",
-    "IsController": false,
+    "IsController": true,
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[CEBackend.Alien, CEBackend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CEBackend.Alien, CEBackend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
-          "application/json"
+          "text/plain",
+          "application/json",
+          "text/json"
         ],
         "StatusCode": 200
       }
-    ],
-    "Tags": [
-      "Alien"
-    ],
-    "EndpointName": "GetAllAliens"
+    ]
   },
   {
-    "ContainingType": "CEBackend.Controllers.AlienEndpoints\u002B\u003C\u003Ec",
-    "Method": "\u003CMapAlienEndpoints\u003Eb__0_3",
-    "RelativePath": "api/Alien/",
+    "ContainingType": "CEBackend.Controllers.AliensController",
+    "Method": "PostAlien",
+    "RelativePath": "api/Aliens",
     "HttpMethod": "POST",
-    "IsController": false,
+    "IsController": true,
     "Order": 0,
     "Parameters": [
       {
@@ -39,22 +37,20 @@
       {
         "Type": "CEBackend.Alien",
         "MediaTypes": [
-          "application/json"
+          "text/plain",
+          "application/json",
+          "text/json"
         ],
-        "StatusCode": 201
+        "StatusCode": 200
       }
-    ],
-    "Tags": [
-      "Alien"
-    ],
-    "EndpointName": "CreateAlien"
+    ]
   },
   {
-    "ContainingType": "CEBackend.Controllers.AlienEndpoints\u002B\u003C\u003Ec",
-    "Method": "\u003CMapAlienEndpoints\u003Eb__0_1",
-    "RelativePath": "api/Alien/{id}",
+    "ContainingType": "CEBackend.Controllers.AliensController",
+    "Method": "GetAlien",
+    "RelativePath": "api/Aliens/{id}",
     "HttpMethod": "GET",
-    "IsController": false,
+    "IsController": true,
     "Order": 0,
     "Parameters": [
       {
@@ -67,27 +63,20 @@
       {
         "Type": "CEBackend.Alien",
         "MediaTypes": [
-          "application/json"
+          "text/plain",
+          "application/json",
+          "text/json"
         ],
         "StatusCode": 200
-      },
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 404
       }
-    ],
-    "Tags": [
-      "Alien"
-    ],
-    "EndpointName": "GetAlienById"
+    ]
   },
   {
-    "ContainingType": "CEBackend.Controllers.AlienEndpoints\u002B\u003C\u003Ec",
-    "Method": "\u003CMapAlienEndpoints\u003Eb__0_2",
-    "RelativePath": "api/Alien/{id}",
+    "ContainingType": "CEBackend.Controllers.AliensController",
+    "Method": "PutAlien",
+    "RelativePath": "api/Aliens/{id}",
     "HttpMethod": "PUT",
-    "IsController": false,
+    "IsController": true,
     "Order": 0,
     "Parameters": [
       {
@@ -101,29 +90,14 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      },
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 404
-      }
-    ],
-    "Tags": [
-      "Alien"
-    ],
-    "EndpointName": "UpdateAlien"
+    "ReturnTypes": []
   },
   {
-    "ContainingType": "CEBackend.Controllers.AlienEndpoints\u002B\u003C\u003Ec",
-    "Method": "\u003CMapAlienEndpoints\u003Eb__0_4",
-    "RelativePath": "api/Alien/{id}",
+    "ContainingType": "CEBackend.Controllers.AliensController",
+    "Method": "DeleteAlien",
+    "RelativePath": "api/Aliens/{id}",
     "HttpMethod": "DELETE",
-    "IsController": false,
+    "IsController": true,
     "Order": 0,
     "Parameters": [
       {
@@ -132,22 +106,43 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CEBackend.Controllers.RansomizerController",
+    "Method": "GetAliens",
+    "RelativePath": "api/Ransomizer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
       {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
+        "Name": "Easy",
+        "Type": "System.Int32",
+        "IsRequired": false
       },
       {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 404
+        "Name": "Medium",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Difficult",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
-    "Tags": [
-      "Alien"
-    ],
-    "EndpointName": "DeleteAlien"
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CEBackend.Alien, CEBackend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "CEBackend.Controllers.WeatherForecastController",
