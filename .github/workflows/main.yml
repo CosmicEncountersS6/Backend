@@ -43,7 +43,7 @@ jobs:
          context: ./CEBackend/
          file: ./Backend/CEBackend/Dockerfile
          push: ${{ github.event_name != 'pull_request' }}
-         tags: ${{ secrets.DOCKER_HUB_USERNAME }}/backend:latest
+         tags: ${{ secrets.DOCKER_HUB_USERNAME }}/cebackend:latest
          
   #SonarCloud:
    # name: Build and analyze
