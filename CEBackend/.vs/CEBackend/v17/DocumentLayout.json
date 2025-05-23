@@ -3,12 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|c:\\users\\evalynn kootstra\\documents\\github\\backend\\cebackend\\controllers\\ransomizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|solutionrelative:controllers\\ransomizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Evalynn Kootstra\\AppData\\Local\\Temp\\rqs1i02k..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Evalynn Kootstra\\AppData\\Local\\Temp\\dbo.Aliens.data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AlienDatabase/True/SqlTable/dbo.Aliens.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|c:\\users\\evalynn kootstra\\documents\\github\\backend\\cebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|c:\\users\\evalynn kootstra\\documents\\github\\backend\\cebackend\\database\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|solutionrelative:database\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|c:\\users\\evalynn kootstra\\documents\\github\\backend\\cebackend\\controllers\\ransomizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|solutionrelative:controllers\\ransomizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|c:\\users\\evalynn kootstra\\documents\\github\\backend\\cebackend\\alien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +38,15 @@
     {
       "AbsoluteMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|c:\\users\\evalynn kootstra\\documents\\github\\backend\\cebackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23017B96-91D3-45C6-B24F-520A1A5310B5}|CEBackend.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Evalynn Kootstra\\AppData\\Local\\Temp\\dbo.Aliens.data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Evalynn Kootstra\\AppData\\Local\\Temp\\rqs1i02k..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Evalynn Kootstra\\AppData\\Local\\Temp\\rqs1i02k..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +56,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Evalynn Kootstra\\AppData\\Local\\Temp\\rqs1i02k..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\rqs1i02k..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-23T09:29:46.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "dbo.Aliens.data ",
+              "DocumentMoniker": "C:\\Users\\Evalynn Kootstra\\AppData\\Local\\Temp\\dbo.Aliens.data.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\dbo.Aliens.data.sql",
+              "ToolTip": "dbo.Aliens.data *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-23T09:29:32.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Aliens [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AlienDatabase/True/SqlTable/dbo.Aliens.sql",
+              "ToolTip": "dbo.Aliens [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-23T09:29:09.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T09:22:28.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Database\\Context.cs",
               "RelativeDocumentMoniker": "Database\\Context.cs",
@@ -46,11 +113,12 @@
               "RelativeToolTip": "Database\\Context.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T19:30:32.17Z"
+              "WhenOpened": "2024-12-15T19:30:32.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
@@ -58,24 +126,25 @@
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AgIAABAAAAAAAAAAAAAIwB0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-02T12:30:03.568Z"
+              "WhenOpened": "2024-12-02T12:30:03.568Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "RansomizerController.cs",
               "DocumentMoniker": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Controllers\\RansomizerController.cs",
               "RelativeDocumentMoniker": "Controllers\\RansomizerController.cs",
               "ToolTip": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Controllers\\RansomizerController.cs",
               "RelativeToolTip": "Controllers\\RansomizerController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T10:31:21.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "AliensController.cs",
               "DocumentMoniker": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Controllers\\AliensController.cs",
               "RelativeDocumentMoniker": "Controllers\\AliensController.cs",
@@ -83,11 +152,12 @@
               "RelativeToolTip": "Controllers\\AliensController.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAIwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T14:00:32.147Z"
+              "WhenOpened": "2024-11-29T14:00:32.147Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Alien.cs",
               "DocumentMoniker": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Alien.cs",
               "RelativeDocumentMoniker": "Alien.cs",
@@ -95,11 +165,12 @@
               "RelativeToolTip": "Alien.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T10:37:01.026Z"
+              "WhenOpened": "2024-11-29T10:37:01.026Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -107,7 +178,8 @@
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T10:31:44.346Z"
+              "WhenOpened": "2024-11-29T10:31:44.346Z",
+              "EditorCaption": ""
             }
           ]
         }

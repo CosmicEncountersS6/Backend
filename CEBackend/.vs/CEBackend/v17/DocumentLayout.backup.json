@@ -46,8 +46,7 @@
               "RelativeToolTip": "Database\\Context.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T19:30:32.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T19:30:32.17Z"
             },
             {
               "$type": "Document",
@@ -69,7 +68,7 @@
               "RelativeDocumentMoniker": "Controllers\\RansomizerController.cs",
               "ToolTip": "C:\\Users\\Evalynn Kootstra\\Documents\\GitHub\\Backend\\CEBackend\\Controllers\\RansomizerController.cs",
               "RelativeToolTip": "Controllers\\RansomizerController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T10:31:21.44Z",
               "EditorCaption": ""
